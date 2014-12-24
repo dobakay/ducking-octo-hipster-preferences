@@ -1,0 +1,17 @@
+{
+    "color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+    "font_size": 12,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "save_on_focus_lost": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}
