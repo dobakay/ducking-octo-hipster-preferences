@@ -1,0 +1,4 @@
+[
+    { "keys": ["f12"], "command": "goto_definition" },
+    { "keys": ["shift+ctrl+o"], "command": "open_dir" },
+]
