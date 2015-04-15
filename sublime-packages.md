@@ -1,0 +1,10 @@
+1. [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
+2. [Bracket Hilighter](https://github.com/facelessuser/BracketHighlighter)
+3. [DocBlockr](https://github.com/spadgos/sublime-jsdocs/)
+4. [FileDiffs](https://github.com/colinta/SublimeFileDiffs)
+5. [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
+6. Nodejs
+7. [Origami](https://github.com/SublimeText/Origami)
+8. [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
+9. [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+10. [HTML/CSS/JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
